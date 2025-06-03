@@ -1,0 +1,1182 @@
+[
+  {
+    "number": "no.001",
+    "name": "rowlet",
+    "location": "Starter Pokemon\nCoronet Highlands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.002",
+    "name": "datrix",
+    "location": "Evolve Rowlet"
+  },
+  {
+    "number": "no.003",
+    "name": "hisiuan decidueye",
+    "location": "Evolve Datrix"
+  },
+  {
+    "number": "no.004",
+    "name": "cyndaquil",
+    "location": "Starter Pokemon\nCrimson Mirelands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.005",
+    "name": "quilava",
+    "location": "Evolve Cyndaquil"
+  },
+  {
+    "number": "no.006",
+    "name": "hisiuan typhlosion",
+    "location": "Evolve Quilava"
+  },
+  {
+    "number": "no.007",
+    "name": "oshawott",
+    "location": "Starter Pokemon\nAlabaster Icelands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.008",
+    "name": "dewott",
+    "location": "Evolve Dewott"
+  },
+  {
+    "number": "no.009",
+    "name": "samurott",
+    "location": "Evolve Dewott"
+  },
+  {
+    "number": "no.010",
+    "name": "bidoof",
+    "location": "Alabaster Icelands\nAvalugg’s Legacy\nObsidian Fieldlands\nAspiration Hill, Horseshoe Plains, Tidewater Dam\nCrimson Mirelands\nGapejaw Bog, Ursa’s Ring, Droning Meadow"
+  },
+  {
+    "number": "no.011",
+    "name": "bibarel",
+    "location": "Alabaster Icelands\nAvalugg’s Legacy\nObsidian Fieldlands\nTidewater Dam\nCobalt Coastlands\nSpring Path\nCrimson Mirelands\nGapejaw Bog, Ursa’s Ring, Droning Meadow"
+  },
+  {
+    "number": "no.012",
+    "name": "starly",
+    "location": "Cobalt Coastlands\nGinkgo Landing, Deadwood Haunt\nObsidian Fieldlands\nAspiration Hill, Horseshoe Plains, Windswept Run, Tidewater Dam"
+  },
+  {
+    "number": "no.013",
+    "name": "staravia",
+    "location": "Cobalt Coastlands\nGinkgo Landing, Deadwood Haunt\nObsidian Fieldlands\nAspiration Hill, Horseshoe Plains, Windswept Run, Tidewater Dam"
+  },
+  {
+    "number": "no.014",
+    "name": "staraptor",
+    "location": "Obsidian Fieldlands\nNature’s Pantry\nCobalt Coastlands\nDeadwood Haunt"
+  },
+  {
+    "number": "no.015",
+    "name": "shinx",
+    "location": "Obsidian Fieldlands\nAspiration Hill, Floaro Gardens, Oreburrow Tunnel\nCoronet Highlands\nSonorous Path"
+  },
+  {
+    "number": "no.016",
+    "name": "luxio",
+    "location": "Obsidian Fieldlands\nFloaro Gardens, Oreburrow Tunnel, Sandgem Flats\nCoronet Highlands\nHeavenward Lookout, Sonorous Path, Sacred Plaza, Cloudcap Pass"
+  },
+  {
+    "number": "no.017",
+    "name": "luxray",
+    "location": "Obsidian Fieldlands\nSandgem Flats\nCoronet Highlands\nHeavenward Lookout, Sonorous Path, Sacred Plaza, Cloudcap Pass"
+  },
+  {
+    "number": "no.018",
+    "name": "wurmple",
+    "location": "Obsidian Fieldlands\nHorseshoe Plains, Floaro Gardens, The Heartwood"
+  },
+  {
+    "number": "no.019",
+    "name": "silcoon",
+    "location": "Obsidian Fieldlands\nFloaro Gardens, The Heartwood"
+  },
+  {
+    "number": "no.020",
+    "name": "beautifly",
+    "location": "Obsidian Fieldlands\nFloaro Gardens, The Heartwood, Grueling Grove\nCobalt Coastlands\nVeilstone Cape"
+  },
+  {
+    "number": "no.021",
+    "name": "cascoon",
+    "location": "Obsidian Fieldlands\nFloaro Gardens, The Heartwood"
+  },
+  {
+    "number": "no.022",
+    "name": "dustox",
+    "location": "Obsidian Fieldlands\nFloaro Gardens, The Heartwood, Grueling Grove\nCobalt Coastlands\nVeilstone Cape"
+  },
+  {
+    "number": "no.023",
+    "name": "ponyta",
+    "location": "Obsidian Fieldlands\nHorseshoe Plains"
+  },
+  {
+    "number": "no.024",
+    "name": "rapidash",
+    "location": "Obsidian Fieldlands\nHorseshoe Plains"
+  },
+  {
+    "number": "no.025",
+    "name": "eevee",
+    "location": "Alabaster Icelands\nAvalugg’s Legacy, Avalanche Slopes\nObsidian Fieldlands\nHorseshoe Plains\nCobalt Coastlands\nCrossing Slope"
+  },
+  {
+    "number": "no.026",
+    "name": "vaporeon",
+    "location": "Evolve Eevee"
+  },
+  {
+    "number": "no.027",
+    "name": "jolteon",
+    "location": "Evolve Eevee"
+  },
+  {
+    "number": "no.028",
+    "name": "flareon",
+    "location": "Evolve Eevee"
+  },
+  {
+    "number": "no.029",
+    "name": "espeon",
+    "location": "Coronet Highlands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.030",
+    "name": "umbreon",
+    "location": "Crimson Mirelands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.031",
+    "name": "leafeon",
+    "location": "Obsidian Fieldlands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.032",
+    "name": "glaceon",
+    "location": "Evolve Eevee"
+  },
+  {
+    "number": "no.033",
+    "name": "sylveon",
+    "location": "Obsidian Fieldlands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.034",
+    "name": "zubat",
+    "location": "Alabaster Icelands\nSnowpoint Temple\nObsidian Fieldlands\nDeertrack Path, Nature’s Pantry, The Heartwood, Oreburrow Tunnel\nCoronet Highlands\nHeavenward Lookout, Wayward Cave\nCrimson Mirelands\nBolderoll Slope, Diamond Heath, Cloudpool Ridge"
+  },
+  {
+    "number": "no.035",
+    "name": "golbat",
+    "location": "Alabaster Icelands\nSnowpoint Temple\nObsidian Fieldlands\nOreburrow Tunnel\nCoronet Highlands\nHeavenward Lookout, Wayward Cave\nCrimson Mirelands\nBolderoll Slope, Diamond Heath, Cloudpool Ridge"
+  },
+  {
+    "number": "no.036",
+    "name": "crobat",
+    "location": "Alabaster Icelands\nIcebound Falls\nCoronet Highlands\nWayward Cave"
+  },
+  {
+    "number": "no.037",
+    "name": "drifloon",
+    "location": "Alabaster Icelands\nAvalugg’s Legacy, Glacier Terrace, Heart’s Crag\nObsidian Fieldlands\nAspiration Hill, Horseshoe Plains, Floaro Gardens, Ramanas Island\nCobalt Coastlands\nGinkgo Landing, Bathers' Lagoon, Deadwood Haunt, Tranquility Cove"
+  },
+  {
+    "number": "no.038",
+    "name": "drifblim",
+    "location": "Alabaster Icelands\nAvalugg’s Legacy, Glacier Terrace, Heart’s Crag\nObsidian Fieldlands\nSandgem Flats, Ramanas Island\nCobalt Coastlands\nGinkgo Landing, Bathers' Lagoon, Deadwood Haunt, Tranquility Cove"
+  },
+  {
+    "number": "no.039",
+    "name": "kricketot",
+    "location": "Obsidian Fieldlands\nDeertrack Path, Nature’s Pantry, Windswept Run\nCrimson Mirelands\nGolden Lowlands, Cloudpool Ridge"
+  },
+  {
+    "number": "no.040",
+    "name": "kricketune",
+    "location": "Obsidian Fieldlands\nNature’s Pantry\nCrimson Mirelands\nGolden Lowlands, Cloudpool Ridge"
+  },
+  {
+    "number": "no.041",
+    "name": "buizel",
+    "location": "Obsidian Fieldlands\nHorseshoe Plains, Windswept Run, Worm Bridge\nCobalt Coastlands\nAipom Hill, Bathers’ Lagoon"
+  },
+  {
+    "number": "no.042",
+    "name": "floatzel",
+    "location": "Obsidian Fieldlands\nWorm Bridge\nCobalt Coastlands\nAipom Hill, Bathers’ Lagoon"
+  },
+  {
+    "number": "no.043",
+    "name": "burmy",
+    "location": "Alabaster Icelands\nBonechill Wastes, Glacier Terrace, Lake Acuity, Avalanche Slopes\nObsidian Fieldlands\nDeertrack Path, Deertrack Heights, Nature’s Pantry, Grueling Grove\nCoronet Highlands\nHeavenward Lookout, Celestica Trail, Celestica Ruins, Stonetooth Rows\nCobalt Coastlands\nGinkgo Landing, Crossing Slope, Veilstone Cape, Bathers' Lagoon\nCrimson Mirelands\nGolden Lowlands, Gapejaw Bog, Cloudpool Ridge, Shrouded Ruins"
+  },
+  {
+    "number": "no.044",
+    "name": "wormadam",
+    "location": "Alabaster Icelands\nBonechill Wastes, Glacier Terrace, Lake Acuity, Avalanche Slopes\nObsidian Fieldlands\nGrueling Grove, Sandgem Flats\nCoronet Highlands\nHeavenward Lookout, Celestica Trail, Celestica Ruins, Stonetooth Rows\nCobalt Coastlands\nGinkgo Landing, Crossing Slope, Veilstone Cape, Bathers' Lagoon\nCrimson Mirelands\nGolden Lowlands, Gapejaw Bog"
+  },
+  {
+    "number": "no.045",
+    "name": "mothim",
+    "location": "Obsidian Fieldlands\nGrueling Grove\nCoronet Highlands\nWayward Wood\nCobalt Coastlands\nGinkgo Landing, Veilstone Cape, Aipom Hill, Spring Path"
+  },
+  {
+    "number": "no.046",
+    "name": "geodude",
+    "location": "Obsidian Fieldlands\nDeertrack Heights, Worn Bridge, Oreburrow Tunnel\nCoronet Highlands\nBolderoll Ravine, Clamberclaw Cliffs, Celestica Ruins\nCobalt Coastlands\nGinkgo Landing, Veilstone Cape, Aipom Hill, Bathers' Lagoon\nCrimson Mirelands\nGapejaw Bog, Scarlet Bog, Ursa’s Ring, Bolderoll Slope"
+  },
+  {
+    "number": "no.047",
+    "name": "graveler",
+    "location": "Alabaster Icelands\nSnowpoint Temple\nObsidian Fieldlands\nOreburrow Tunnel, Sandgem Flats\nCoronet Highlands\nHeavenward Lookout, Bolderoll Ravine, Clamberclaw Cliffs, Celestica Ruins\nCobalt Coastlands\nWindbreak Stand, Firespit Island, Islespy Shore, Spring Path\nCrimson Mirelands\nGapejaw Bog, Scarlet Bog, Ursa’s Ring, Bolderoll Slope"
+  },
+  {
+    "number": "no.048",
+    "name": "golem",
+    "location": "Coronet Highlands\nBolderoll Ravine"
+  },
+  {
+    "number": "no.049",
+    "name": "stantler",
+    "location": "Obsidian Fieldlands\nGlacier Terrace\nObsidian Fieldlands\nDeertrack Heights\nCoronet Highlands\nWayward Wood\nCobalt Coastlands\nWindbreak Stand"
+  },
+  {
+    "number": "no.050",
+    "name": "wyrdeer",
+    "location": "Evolve Stantler"
+  },
+  {
+    "number": "no.051",
+    "name": "munchlax",
+    "location": "Alabaster Icelands\nSnowfall Hot Spring\nObsidian Fieldlands\nDeertrack Heights"
+  },
+  {
+    "number": "no.052",
+    "name": "snorlax",
+    "location": "Alabaster Icelands\nSnowfall Hot Spring\nObsidian Fieldlands\nSandgem Flats"
+  },
+  {
+    "number": "no.053",
+    "name": "paras",
+    "location": "Obsidian Fieldlands\nNature’s Pantry\nCoronet Highlands\nHeavenward Lookout, Wayward Wood\nCobalt Coastlands\nWindbreak Stand\nCrimson Mirelands\nGolden Lowlands, Diamond Heath, Cloudpool Ridge, Cottonsedge Prairie"
+  },
+  {
+    "number": "no.054",
+    "name": "parasect",
+    "location": "Obsidian Fieldlands\nNature’s Pantry\nCoronet Highlands\nHeavenward Lookout, Wayward Wood\nCobalt Coastlands\nWindbreak Stand\nCrimson Mirelands\nGolden Lowlands, Diamond Heath, Cloudpool Ridge, Cottonsedge Prairie"
+  },
+  {
+    "number": "no.055",
+    "name": "pichu",
+    "location": "Obsidian Fieldlands\nFloaro Gardens, Nature’s Pantry\nCrimson Mirelands\nGolden Lowlands"
+  },
+  {
+    "number": "no.056",
+    "name": "pikachu",
+    "location": "Obsidian Fieldlands\nNature’s Pantry\nCobalt Coastlands\nWindbreak Stand\nCrimson Mirelands\nGolden Lowlands"
+  },
+  {
+    "number": "no.057",
+    "name": "raichu",
+    "location": "Crimson Mirelands\nGolden Lowlands"
+  },
+  {
+    "number": "no.058",
+    "name": "abra",
+    "location": "Alabaster Icelands\nLake Acuity\nObsidian Fieldlands\nWindswept Run, Sandgem Flats"
+  },
+  {
+    "number": "no.059",
+    "name": "kadabra",
+    "location": "Alabaster Icelands\nLake Acuity\nObsidian Fieldlands\nSandgem Flats"
+  },
+  {
+    "number": "no.060",
+    "name": "alakazam",
+    "location": "Obsidian Fieldlands\nSandgem Flats"
+  },
+  {
+    "number": "no.061",
+    "name": "chimchar",
+    "location": "Obsidian Fieldlands\nDeertrack Heights, Ramanas Island"
+  },
+  {
+    "number": "no.062",
+    "name": "monferno",
+    "location": "Obsidian Fieldlands\nRamanas Island"
+  },
+  {
+    "number": "no.063",
+    "name": "infernape",
+    "location": "Obsidian Fieldlands\nRamanas Island"
+  },
+  {
+    "number": "no.064",
+    "name": "buneary",
+    "location": "Alabaster Icelands\nBonechill Wastes, Snowfall Hot Spring\nObsidian Fieldlands\nThe Heartwood"
+  },
+  {
+    "number": "no.065",
+    "name": "lopunny",
+    "location": "Alabaster Icelands\nBonechill Wastes, Snowfall Hot Spring\nObsidian Fieldlands\nThe Heartwood"
+  },
+  {
+    "number": "no.066",
+    "name": "cherubi",
+    "location": "Coronet Highlands\nLonely Spring, Fabled Spring, Primeval Grotto (Shaking Trees)\nCrimson Mirelands\nGapejaw Bog (Shaking Trees)\nSee How to Find Cherrim"
+  },
+  {
+    "number": "no.067",
+    "name": "cherrim",
+    "location": "Coronet Highlands\nLonely Spring, Fabled Spring, Primeval Grotto (Shaking Trees)\nCrimson Mirelands\nGapejaw Bog (Shaking Trees)\nSee*Obsidian Fieldlands\nThe Heartwood (Shaking Trees)\nCoronet Highlands\nLonely Spring, Fabled Spring, Primeval Grotto (Shaking Trees)\nCrimson Mirelands\nGapejaw Bog (Shaking Trees)\nSee How to Find Cherrim"
+  },
+  {
+    "number": "no.068",
+    "name": "psyduck",
+    "location": "Obsidian Fieldlands\nThe Heartwood\nCoronet Highlands\nWayward Wood, Lonely Spring\nCobalt Coastlands\nBathers’ Lagoon\nCrimson Mirelands\nGolden Lowlands, Gapejaw Bog, Holm of Trials"
+  },
+  {
+    "number": "no.069",
+    "name": "golduck",
+    "location": "Coronet Highlands\nWayward Wood, Lonely Spring\nCobalt Coastlands\nBathers’ Lagoon, Spring Path\nCrimson Mirelands\nHolm of Trials"
+  },
+  {
+    "number": "no.070",
+    "name": "combee",
+    "location": "Obsidian Fieldlands\nThe Heartwood, Grueling Grove, Ramanas Island\nCobalt Coastlands\nAipom Hill\nCrimson Mirelands\nCloudpool Ride, Lake Valore, Cottonsedge Prairie, Droning Meadow"
+  },
+  {
+    "number": "no.071",
+    "name": "vespiquen",
+    "location": "Crimson Mirelands\nLake Valore, Cottonsedge Prairie, Droning Meadow"
+  },
+  {
+    "number": "no.072",
+    "name": "scyther",
+    "location": "Obsidian Fieldlands\nGrandtree Arena\nCoronet Highlands\nPrimeval Grotto"
+  },
+  {
+    "number": "no.073",
+    "name": "kleavor",
+    "location": "Evolve Scyther"
+  },
+  {
+    "number": "no.074",
+    "name": "scizor",
+    "location": "Evolve Scyther"
+  },
+  {
+    "number": "no.075",
+    "name": "heracross",
+    "location": "Obsidian Fieldlands\nGrueling Grove\nCoronet Highlands\nWayward Wood"
+  },
+  {
+    "number": "no.076",
+    "name": "mime jr.",
+    "location": "Obsidian Fieldlands\nHorseshoe Plains, Sandgem Flats"
+  },
+  {
+    "number": "no.077",
+    "name": "mr. mime",
+    "location": "Obsidian Fieldlands\nSandgem Flats"
+  },
+  {
+    "number": "no.078",
+    "name": "aipom",
+    "location": "Alabaster Icelands\nWhiteout Valley, Glacier Terrace, Snowfall Hot Spring, Heart's Crag\nObsidian Fieldlands\nRamanas Island\nCobalt Coastlands\nAipom Hill, Hideaway Bay"
+  },
+  {
+    "number": "no.079",
+    "name": "ambipom",
+    "location": "Alabaster Icelands\nAvalanche Slopes, Arena' Approach, Heart's Crag\nCobalt Coastlands\nAipom Hill, Hideaway Bay"
+  },
+  {
+    "number": "no.080",
+    "name": "magikarp",
+    "location": "Obsidian Fieldlands\nObsidian Falls, Lake Verity\nCoronet Highlands\nFabled Spring"
+  },
+  {
+    "number": "no.081",
+    "name": "gyarados",
+    "location": "Obsidian Fieldlands\nObsidian Falls, Lake Verity\nCoronet Highlands\nPromeval Grotto\nCobalt Coastlands\nSand's Reach"
+  },
+  {
+    "number": "no.082",
+    "name": "shellos",
+    "location": "Obsidian Fieldlands\nSandgem Flats, Ramanas Island\nCobalt Coastlands\nTranquility Cove, Seagrass Haven"
+  },
+  {
+    "number": "no.083",
+    "name": "gastrodon",
+    "location": "Obsidian Fieldlands\nSandgem Flats, Ramanas Island\nCobalt Coastlands\nSeagrass Haven"
+  },
+  {
+    "number": "no.084",
+    "name": "qwilfish",
+    "location": "Obsidian Fieldlands\nRamanas Island\nCobalt Coastlands\nTranquility Cove, Lunker's Lair, Islespy Shore"
+  },
+  {
+    "number": "no.085",
+    "name": "overqwil",
+    "location": "Evolve Qwilfish\nThere is one chance to catch an Alpha Overquil during Mission 15: The Trial of Lake Valor"
+  },
+  {
+    "number": "no.086",
+    "name": "happiny",
+    "location": "Alabaster Icelands\nAvalanche Slopes\nObsidian Fieldlands\nOreburrow Tunnel, Obsidian Falls\nCobalt Coastlands\nHideaway Bay"
+  },
+  {
+    "number": "no.087",
+    "name": "chansey",
+    "location": "Alabaster Icelands\nAvalanche Slopes\nObsidian Fieldlands\nObsidian Falls\nCobalt Coastlands\nHideaway Bay, Tombolo Walk"
+  },
+  {
+    "number": "no.088",
+    "name": "blissey",
+    "location": "Alabaster Icelands\nAvalanche Slopes\nObsidian Fieldlands\nObsidian Falls"
+  },
+  {
+    "number": "no.089",
+    "name": "budew",
+    "location": "Coronet Highlands\nFabled Spring\nCrimson Mirelands\nGolden Lowlands, Gapejaw Bog"
+  },
+  {
+    "number": "no.090",
+    "name": "roselia",
+    "location": "Coronet Highlands\nFabled Spring\nCrimson Mirelands\nGolden Lowlands, Gapejaw Bog"
+  },
+  {
+    "number": "no.091",
+    "name": "roserade",
+    "location": "Crimson Mirelands\nCloudpool Ridge"
+  },
+  {
+    "number": "no.092",
+    "name": "carnivine",
+    "location": "Coronet Highlands\nLonely Spring\nCrimson Mirelands\nGolden Lowlands, Gapejaw Bog, Cloudpool Ridge, Holm of Trials"
+  },
+  {
+    "number": "no.093",
+    "name": "petilil",
+    "location": "Crimson Mirelands\nCottonsedge Prairie, Holm of Trials"
+  },
+  {
+    "number": "no.094",
+    "name": "hisuian lilligant",
+    "location": "Evolve Petilil"
+  },
+  {
+    "number": "no.095",
+    "name": "tangela",
+    "location": "Cobalt Coastlands\nCrossing Slope\nCrimson Mirelands\nGapejaw Bog"
+  },
+  {
+    "number": "no.096",
+    "name": "tangrowth",
+    "location": "Crimson Mirelands\nGapejaw Bog"
+  },
+  {
+    "number": "no.097",
+    "name": "barboach",
+    "location": "Coronet Highlands\nWayward Cave\nCrimson Mirelands\nGapejaw Bog, Lake Valor"
+  },
+  {
+    "number": "no.098",
+    "name": "whiscash",
+    "location": "Coronet Highlands\nWayward Cave\nCrimson Mirelands\nGapejaw Bog, Lake Valor"
+  },
+  {
+    "number": "no.099",
+    "name": "croagunk",
+    "location": "Coronet Highlands\nAncient Quarry\nCrimson Mirelands\nGapejaw Bog, Scarlet Bog, Holm of Trials"
+  },
+  {
+    "number": "no.100",
+    "name": "toxicroak",
+    "location": "Coronet Highlands\nAncient Quarry\nCobalt Coastlands\nSpring Path\nCrimson Mirelands\nHolm of Trials"
+  },
+  {
+    "number": "no.101",
+    "name": "ralts",
+    "location": "Alabaster Icelands\nHeart's Crag, Snowpoint Temple\nCrimson Mirelands\nGapejaw Bog, Shrouded Ruins"
+  },
+  {
+    "number": "no.102",
+    "name": "kirlia",
+    "location": "Alabaster Icelands\nHeart's Crag, Snowpoint Temple\nCrimson Mirelands\nShrouded Ruins"
+  },
+  {
+    "number": "no.103",
+    "name": "gardevoir",
+    "location": "Alabaster Icelands\nHeart's Crag"
+  },
+  {
+    "number": "no.104",
+    "name": "gallade",
+    "location": "Alabaster Icelands\nSnowpoint Temple"
+  },
+  {
+    "number": "no.105",
+    "name": "yanma",
+    "location": "Coronet Highlands\nHeavenward Lookout\nCrimson Mirelands\nGapejaw Bog, Ursa's Ring, Droning Meadow"
+  },
+  {
+    "number": "no.106",
+    "name": "yanmega",
+    "location": "Coronet Highlands\nHeavenward Lookout\nCrimson Mirelands\nDroning Meadow"
+  },
+  {
+    "number": "no.107",
+    "name": "hippopotas",
+    "location": "Coronet Highlands\nCelestica Trail\nCrimson Mirelands\nSludge Mound, Scarlet Bog"
+  },
+  {
+    "number": "no.108",
+    "name": "hippowdon",
+    "location": "Coronet Highlands\nCelestica Trail\nCrimson Mirelands\nSludge Mound, Scarlet Bog"
+  },
+  {
+    "number": "no.109",
+    "name": "pachirisu",
+    "location": "Crimson Mirelands\nDroning Meadow"
+  },
+  {
+    "number": "no.110",
+    "name": "stunky",
+    "location": "Coronet Highlands\nAncient Quarry\nCrimson Mirelands\nScarlet Bog"
+  },
+  {
+    "number": "no.111",
+    "name": "skuntank",
+    "location": "Coronet Highlands\nAncient Quarry\nCrimson Mirelands\nScarlet Bog"
+  },
+  {
+    "number": "no.112",
+    "name": "teddiursa",
+    "location": "Coronet Highlands\nSonorous Path\nCrimson Mirelands\nUrsa's Ring"
+  },
+  {
+    "number": "no.113",
+    "name": "ursaring",
+    "location": "Coronet Highlands\nSonorous Path\nCrimson Mirelands\nUrsa's Ring"
+  },
+  {
+    "number": "no.114",
+    "name": "ursaluna",
+    "location": "Evolve Ursaring"
+  },
+  {
+    "number": "no.115",
+    "name": "goomy",
+    "location": "Coronet Highlands\nAncient Quarry\nCrimson Mirelands\nHolm of Trials"
+  },
+  {
+    "number": "no.116",
+    "name": "hisuian sliggoo",
+    "location": "Coronet Highlands\nAncient Quarry\nCrimson Mirelands\nHolm of Trials"
+  },
+  {
+    "number": "no.117",
+    "name": "hisuian goodra",
+    "location": "Coronet Highlands\nAncient Quarry"
+  },
+  {
+    "number": "no.118",
+    "name": "onix",
+    "location": "Coronet Highlands\nCelestica Trail\nCrimson Mirelands\nScarlet Bog, Bolderoll Slope, Lake Valor"
+  },
+  {
+    "number": "no.119",
+    "name": "steelix",
+    "location": "Coronet Highlands\nCelestica Trail"
+  },
+  {
+    "number": "no.120",
+    "name": "rhyhorn",
+    "location": "Coronet Highlands\nCelestica Trail, Sacred Plaza\nCrimson Mirelands\nBolderoll Slope, Diamond Heath, Shrouded Ruins"
+  },
+  {
+    "number": "no.121",
+    "name": "rhydon",
+    "location": "Coronet Highlands\nCelestica Trail, Sacred Plaza"
+  },
+  {
+    "number": "no.122",
+    "name": "rhyperior",
+    "location": "Coronet Highlands\nSacred Plaza"
+  },
+  {
+    "number": "no.123",
+    "name": "bonsly",
+    "location": "Coronet Highlands\nCelestica Trail\nCrimson Mirelands\nCloudpool Ridge"
+  },
+  {
+    "number": "no.124",
+    "name": "sudowoodo",
+    "location": "Coronet Highlands\nCelestica Trail\nCrimson Mirelands\nCloudpool Ridge"
+  },
+  {
+    "number": "no.125",
+    "name": "lickitung",
+    "location": "Alabaster Icelands\nSnowfall Hot Spring, Avalanche Slopes\nCrimson Mirelands\nShrouded Ruins"
+  },
+  {
+    "number": "no.126",
+    "name": "lickilicky",
+    "location": "Alabaster Icelands\nAvalanche Slopes\nCrimson Mirelands\nShrouded Ruins"
+  },
+  {
+    "number": "no.127",
+    "name": "togepi",
+    "location": "Cobalt Coastlands\nBathers' Lagoon, Tranquility Cove\nCrimson Mirelands\nCottonsedge Prairie"
+  },
+  {
+    "number": "no.128",
+    "name": "togetic",
+    "location": "Cobalt Coastlands\nTranquility Cove\nCrimson Mirelands\nBolderoll Slope, Cottonsedge Prairie"
+  },
+  {
+    "number": "no.129",
+    "name": "togekiss",
+    "location": "Obsidian Fieldlands\nLake Verity"
+  },
+  {
+    "number": "no.130",
+    "name": "turtwig",
+    "location": "Crimson Mirelands\nDroning Meadow"
+  },
+  {
+    "number": "no.131",
+    "name": "grotle",
+    "location": "Crimson Mirelands\nDroning Meadow"
+  },
+  {
+    "number": "no.132",
+    "name": "torterra",
+    "location": "Crimson Mirelands\nHolm of Trials"
+  },
+  {
+    "number": "no.133",
+    "name": "porygon",
+    "location": "Crimson Mirelands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.134",
+    "name": "porygon2",
+    "location": "Evolve Porygon"
+  },
+  {
+    "number": "no.135",
+    "name": "porygon3",
+    "location": "Evolve Porygon2"
+  },
+  {
+    "number": "no.136",
+    "name": "gastly",
+    "location": "Alabaster Icelands\nBonechill Wastes\nCoronet Highlands\nBolderoll Ravine, Sacred Plaza, Celestica Ruins\nCrimson Mirelands\nGolden Lowlands, Gapejaw Bog, Scarlet Bog, Shrouded Ruins"
+  },
+  {
+    "number": "no.137",
+    "name": "haunter",
+    "location": "Alabaster Icelands\nBonechill Wastes\nCoronet Highlands\nBolderoll Ravine, Sacred Plaza, Celestica Ruins\nCrimson Mirelands\nGapejaw Bog, Scarlet Bog, Shrouded Ruins, Cottonsedge Prairie"
+  },
+  {
+    "number": "no.138",
+    "name": "gengar",
+    "location": "Evolve Haunter\nObsidian Fieldlands\nSpace-time Distortion"
+  },
+  {
+    "number": "no.139",
+    "name": "spiritomb",
+    "location": "Collect All 107 Wisps"
+  },
+  {
+    "number": "no.140",
+    "name": "murkrow",
+    "location": "Cobalt Coastlands\nCrossing Slope, Veilstone Cape, Hideaway Bay, Islespy Shore\nCrimson Mirelands\nCloudpool Ridge"
+  },
+  {
+    "number": "no.141",
+    "name": "honchkrow",
+    "location": "Cobalt Coastlands\nBathers' Lagoon\nCrimson Mirelands\nCloudpool Ridge"
+  },
+  {
+    "number": "no.142",
+    "name": "unown",
+    "location": ""
+  },
+  {
+    "number": "no.143",
+    "name": "spheal",
+    "location": "Cobalt Coastlands\nGinkgo Landing"
+  },
+  {
+    "number": "no.144",
+    "name": "sealeo",
+    "location": "Cobalt Coastlands\nIslespy Shore"
+  },
+  {
+    "number": "no.145",
+    "name": "walrein",
+    "location": "Cobalt Coastlands\nGinkgo Landing, Islespy Shore"
+  },
+  {
+    "number": "no.146",
+    "name": "remoraid",
+    "location": "Cobalt Coastlands\nCastaway Shore, Sand's Reach, Tranquility Cove"
+  },
+  {
+    "number": "no.147",
+    "name": "octillery",
+    "location": "Cobalt Coastlands\nCastaway Shore, Islespy Shore"
+  },
+  {
+    "number": "no.148",
+    "name": "skorupi",
+    "location": "Cobalt Coastlands\nGinkgo Landing, Castaway Shore"
+  },
+  {
+    "number": "no.149",
+    "name": "drapion",
+    "location": "Cobalt Coastlands\nGinkgo Landing"
+  },
+  {
+    "number": "no.150",
+    "name": "hisuian growlithe",
+    "location": "Cobalt Coastlands\nWindbreak Stand, Veilstone Cape"
+  },
+  {
+    "number": "no.151",
+    "name": "hisuian arcanine",
+    "location": "Evolve Hisuian Growlithe."
+  },
+  {
+    "number": "no.152",
+    "name": "glameow",
+    "location": "Alabaster Icelands\nGlacier Terrace\nCobalt Coastlands\nCrossing Slope, Veilstone Cape"
+  },
+  {
+    "number": "no.153",
+    "name": "purugly",
+    "location": "Alabaster Icelands\nGlacier Terrace\nCobalt Coastlands\nCrossing Slope, Veilstone Cape"
+  },
+  {
+    "number": "no.154",
+    "name": "machop",
+    "location": "Alabaster Icelands\nIcebound Falls, Arena's Approach, Snowfall Hot Spring\nObsidian Fieldlands\nOreburrow Tunnel, Obsidian Falls\nCoronet Highlands\nBolderoll Ravine, Cloudcap Pass\nCobalt Coastlands\nCastaway Shore"
+  },
+  {
+    "number": "no.155",
+    "name": "machoke",
+    "location": "Alabaster Icelands\nIcebound Falls, Arena's Approach, Snowfall Hot Spring\nObsidian Fieldlands\nObsidian Falls\nCoronet Highlands\nBolderoll Ravine, Cloudcap Pass\nCobalt Coastlands\nCastaway Shore"
+  },
+  {
+    "number": "no.156",
+    "name": "machamp",
+    "location": "Alabaster Icelands\nArena's Approach"
+  },
+  {
+    "number": "no.157",
+    "name": "chatot",
+    "location": "Cobalt Coastlands\nDeadwood Haunt (Day, after Setting Up the Coastlands Camp)"
+  },
+  {
+    "number": "no.158",
+    "name": "duskull",
+    "location": "Alabaster Icelands\nAvalanche Slopes, Arena's Approach\nCobalt Coastlands\nDeadwood Haunt"
+  },
+  {
+    "number": "no.159",
+    "name": "dusclops",
+    "location": "Alabaster Icelands\nAvalanche Slopes, Arena's Approach\nCobalt Coastlands\nDeadwood Haunt"
+  },
+  {
+    "number": "no.160",
+    "name": "dusknoir",
+    "location": "Cobalt Coastlands\nDeadwood Haunt"
+  },
+  {
+    "number": "no.161",
+    "name": "piplup",
+    "location": "Cobalt Coastlands\nSpring Path"
+  },
+  {
+    "number": "no.162",
+    "name": "prinplup",
+    "location": "Cobalt Coastlands\nSpring Path"
+  },
+  {
+    "number": "no.163",
+    "name": "empoleon",
+    "location": "Cobalt Coastlands\nIslespy Shore"
+  },
+  {
+    "number": "no.164",
+    "name": "mantyke",
+    "location": "Cobalt Coastlands\nGinkgo Landing, Tranquility Cove"
+  },
+  {
+    "number": "no.165",
+    "name": "mantine",
+    "location": "Cobalt Coastlands\nTranquility Cove"
+  },
+  {
+    "number": "no.166",
+    "name": "basculin",
+    "location": "Alabaster Icelands\nLake Acuity, Heart's Crag\nCoronet Highlands\nFabled Spring\nCobalt Coastlands\nTranquility Cove, Islespy Shore"
+  },
+  {
+    "number": "no.167",
+    "name": "basculegion",
+    "location": "Evolve Basculin"
+  },
+  {
+    "number": "no.168",
+    "name": "vulpix",
+    "location": "Cobalt Coastlands\nVeilstone Cape"
+  },
+  {
+    "number": "no.169",
+    "name": "ninetales",
+    "location": "Cobalt Coastlands\nFirespit Island"
+  },
+  {
+    "number": "no.170",
+    "name": "tentacool",
+    "location": "Cobalt Coastlands\nLunker's Lair, Seagrass Haven, Islespy Shore"
+  },
+  {
+    "number": "no.171",
+    "name": "tentacruel",
+    "location": "Cobalt Coastlands\nLunker's Lair, Seagrass Haven, Islespy Shore"
+  },
+  {
+    "number": "no.172",
+    "name": "finneon",
+    "location": "Cobalt Coastlands\nSeagrass Haven"
+  },
+  {
+    "number": "no.173",
+    "name": "lumineon",
+    "location": "Cobalt Coastlands\nSeagrass Haven"
+  },
+  {
+    "number": "no.174",
+    "name": "magby",
+    "location": "Cobalt Coastlands\nFirespit Island"
+  },
+  {
+    "number": "no.175",
+    "name": "magmar",
+    "location": "Cobalt Coastlands\nFirespit Island"
+  },
+  {
+    "number": "no.176",
+    "name": "magmortar",
+    "location": "Evolve Magmar"
+  },
+  {
+    "number": "no.177",
+    "name": "magnemite",
+    "location": "Cobalt Coastlands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.178",
+    "name": "magneton",
+    "location": "Cobalt Coastlands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.179",
+    "name": "magnezone",
+    "location": "Coronet Highlands\nCelestica Trail, Fabled Spring, Clamberclaw Cliffs"
+  },
+  {
+    "number": "no.180",
+    "name": "bronzor",
+    "location": "Alabaster Icelands\nLake Acuity, Snowpoint Temple\nCoronet Highlands\nAncient Quarry, Clamberclaw Cliffs, Stonetooth Rows, Celestica Ruins"
+  },
+  {
+    "number": "no.181",
+    "name": "bronzong",
+    "location": "Alabaster Icelands\nLake Acuity, Snowpoint Temple\nCoronet Highlands\nAncient Quarry, Clamberclaw Cliffs, Stonetooth Rows, Celestica Ruins"
+  },
+  {
+    "number": "no.182",
+    "name": "elekid",
+    "location": "Alabaster Icelands\nArena's Approach, Icebound Falls\nCoronet Highlands\nCloudcap Pass"
+  },
+  {
+    "number": "no.183",
+    "name": "electabuzz",
+    "location": "Alabaster Icelands\nArena's Approach, Icebound Falls\nCoronet Highlands\nCloudcap Pass"
+  },
+  {
+    "number": "no.184",
+    "name": "electivire",
+    "location": "Coronet Highlands\nCloudcap Pass"
+  },
+  {
+    "number": "no.185",
+    "name": "gligar",
+    "location": "Alabaster Icelands\nGlacier Terrace, Arena’s Approach\nCoronet Highlands\nClamberclaw Cliffs, Celestica Ruins, Cloudcap Pass, Primeval Grotto"
+  },
+  {
+    "number": "no.186",
+    "name": "gliscor",
+    "location": "Coronet Highlands\nPrimeval Grotto"
+  },
+  {
+    "number": "no.187",
+    "name": "gible",
+    "location": "Alabaster Icelands\nAvalanche Slopes\nCoronet Highlands\nWayward Cave, Clamberclaw Cliffs"
+  },
+  {
+    "number": "no.188",
+    "name": "gabite",
+    "location": "Alabaster Icelands\nAvalanche Slopes\nCoronet Highlands\nClamberclaw Cliffs"
+  },
+  {
+    "number": "no.189",
+    "name": "garchomp",
+    "location": "Alabaster Icelands\nAvalanche Slopes"
+  },
+  {
+    "number": "no.190",
+    "name": "nosepass",
+    "location": "Coronet Highlands\nCelestica Ruins, Primeval Grotto"
+  },
+  {
+    "number": "no.191",
+    "name": "probopass",
+    "location": "Coronet Highlands\nPrimeval Grotto"
+  },
+  {
+    "number": "no.192",
+    "name": "hisuian voltorb",
+    "location": "Coronet Highlands\nSacred Plaza"
+  },
+  {
+    "number": "no.193",
+    "name": "hisuian electrode",
+    "location": "Evolve Voltorb"
+  },
+  {
+    "number": "no.194",
+    "name": "rotom",
+    "location": "Coronet Highlands\nStonetooth Rows, Sacred Plaza"
+  },
+  {
+    "number": "no.195",
+    "name": "chingling",
+    "location": "Alabaster Icelands\nLake Acuity\nCoronet Highlands\nSacred Plaza"
+  },
+  {
+    "number": "no.196",
+    "name": "chimecho",
+    "location": "Alabaster Icelands\nLake Acuity\nCoronet Highlands\nCelestica Trail"
+  },
+  {
+    "number": "no.197",
+    "name": "misdreavus",
+    "location": "Alabaster Icelands (Night)\nBonechill Wastes\nCoronet Highlands (Night)\nStonetooth Rows, Sacred Plaza, Celestica Ruins"
+  },
+  {
+    "number": "no.198",
+    "name": "mismagius",
+    "location": "Coronet Highlands (Night)\nStonetooth Rows"
+  },
+  {
+    "number": "no.199",
+    "name": "cleffa",
+    "location": "Coronet Highlands (Night)\nFabled Spring"
+  },
+  {
+    "number": "no.200",
+    "name": "clefairy",
+    "location": "Coronet Highlands (Night)\nFabled Spring"
+  },
+  {
+    "number": "no.201",
+    "name": "clefable",
+    "location": "Coronet Highlands (Night)\nFabled Spring"
+  },
+  {
+    "number": "no.202",
+    "name": "sneasel",
+    "location": "Alabaster Icelands\nAvalugg's Legacy, Glacier Terrace\nCoronet Highlands\nCelestica Trail, Primeval Grotto"
+  },
+  {
+    "number": "no.203",
+    "name": "sneasler",
+    "location": "Evolve Hisuian Sneasel"
+  },
+  {
+    "number": "no.204",
+    "name": "weavile",
+    "location": "Obsidian Fieldlands\nSpace-time Distortions\nEvolve Sneasel"
+  },
+  {
+    "number": "no.205",
+    "name": "snorunt",
+    "location": "Alabaster Icelands\nWhiteout Valley, Bonechill Wastes, Avalugg's Legacy, Avalanche Slopes"
+  },
+  {
+    "number": "no.206",
+    "name": "glalie",
+    "location": "Alabaster Icelands\nBonechill Wastes, Avalugg's Legacy, Avalanche Slopes, Snowpoint Temple"
+  },
+  {
+    "number": "no.207",
+    "name": "froslass",
+    "location": "Alabaster Icelands\nBonechill Wastes, Avalugg's Legacy, Avalanche Slopes"
+  },
+  {
+    "number": "no.208",
+    "name": "cranidos",
+    "location": "Coronet Highlands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.209",
+    "name": "rampardos",
+    "location": "Coronet Highlands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.210",
+    "name": "shieldon",
+    "location": "Coronet Highlands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.211",
+    "name": "bastiodon",
+    "location": "Coronet Highlands\nSpace-time Distortions"
+  },
+  {
+    "number": "no.212",
+    "name": "swinub",
+    "location": "Alabaster Icelands\nBonechill Wastes, Avalugg's Legacy, Avalanche Slopes"
+  },
+  {
+    "number": "no.213",
+    "name": "piloswine",
+    "location": "Alabaster Icelands\nBonechill Wastes, Avalugg's Legacy, Avalanche Slopes"
+  },
+  {
+    "number": "no.214",
+    "name": "mamoswine",
+    "location": "Alabaster Icelands\nAvalugg's Legacy"
+  },
+  {
+    "number": "no.215",
+    "name": "bergmite",
+    "location": "Alabaster Icelands\nAvalugg's Legacy, Arena's Approach"
+  },
+  {
+    "number": "no.216",
+    "name": "hisuian avalugg",
+    "location": "Alabaster Icelands\nAvalugg's Legacy"
+  },
+  {
+    "number": "no.217",
+    "name": "snover",
+    "location": "Alabaster Icelands\nAvalugg's Legacy, Glacier Terrace"
+  },
+  {
+    "number": "no.218",
+    "name": "abomasnow",
+    "location": "Alabaster Icelands\nAvalugg's Legacy, Glacier Terrace"
+  },
+  {
+    "number": "no.219",
+    "name": "hisuian zorua",
+    "location": "Alabaster Icelands\nBonechill Wastes"
+  },
+  {
+    "number": "no.220",
+    "name": "hisuian zoroark",
+    "location": "Alabaster Icelands\nBonechill Wastes"
+  },
+  {
+    "number": "no.221",
+    "name": "rufflet",
+    "location": "Alabaster Icelands\nLake Acuity, Heart's Crag"
+  },
+  {
+    "number": "no.222",
+    "name": "hisuian braviary",
+    "location": "Alabaster Icelands\nLake Acuity"
+  },
+  {
+    "number": "no.223",
+    "name": "riolu",
+    "location": "Alabaster Icelands\nIcebound Falls, Snowfall Hot Spring"
+  },
+  {
+    "number": "no.224",
+    "name": "lucario",
+    "location": "Alabaster Icelands\nIcebound Falls, Snowfall Hot Spring"
+  },
+  {
+    "number": "no.225",
+    "name": "uxie",
+    "location": "First complete The Trial of Lake Acuity, then return to Lake Acuity"
+  },
+  {
+    "number": "no.226",
+    "name": "mesprit",
+    "location": "First complete The Trial of Lake Verity, then return to Lake Verity"
+  },
+  {
+    "number": "no.227",
+    "name": "azelf",
+    "location": "First complete The Trial of Lake Valor, then return to Lake Valor"
+  },
+  {
+    "number": "no.228",
+    "name": "heatran",
+    "location": "Research Mision - The Plate of Firespit Island"
+  },
+  {
+    "number": "no.229",
+    "name": "regigigas",
+    "location": "Research Mission - The Plate of Snowpoint Temple"
+  },
+  {
+    "number": "no.230",
+    "name": "cresselia",
+    "location": "Research Mission - The Plate of Moonview Arena"
+  },
+  {
+    "number": "no.231",
+    "name": "tornadus",
+    "location": ""
+  },
+  {
+    "number": "no.232",
+    "name": "thundurus",
+    "location": ""
+  },
+  {
+    "number": "no.233",
+    "name": "landorus",
+    "location": ""
+  },
+  {
+    "number": "no.234",
+    "name": "enamorus",
+    "location": ""
+  },
+  {
+    "number": "no.235",
+    "name": "dialga",
+    "location": ""
+  },
+  {
+    "number": "no.236",
+    "name": "palkia",
+    "location": ""
+  }
+]

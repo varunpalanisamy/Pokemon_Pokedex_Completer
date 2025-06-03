@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+venv/
+pokedex_env/
+scraped_pokedex.txt
+
+data/screenshots/
+
+# Vite / Node.js
+node_modules/
+dist/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Build artifacts
+*.local
