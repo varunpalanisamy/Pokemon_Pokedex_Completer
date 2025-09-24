@@ -2,15 +2,15 @@
 
 This project automates the process of identifying which Pokémon you have not yet captured in *Pokémon Legends: Arceus* by using OCR to read screenshots from your Pokédex. It also helps organize uncaught Pokémon by region and sub-location for efficient tracking and exploration.
 
-## 🔧 Features
+## Features
 
-- 📸 **Screenshot OCR** using Tesseract and PyTesseract
-- 🧠 **Master Pokédex Parsing** from guidebook data
-- ❌ **Uncaught Pokémon Detection** based on your current caught list
-- 🌍 **Web Interface** to filter uncaught Pokémon by region and sub-location
-- 🕹️ Built with Python (backend) and React + Vite + TailwindCSS (frontend)
+- **Screenshot OCR** using Tesseract and PyTesseract
+- **Master Pokédex Parsing** from guidebook data
+- **Uncaught Pokémon Detection** based on your current caught list
+- **Web Interface** to filter uncaught Pokémon by region and sub-location
+- Built with Python (backend) and React + Vite + TailwindCSS (frontend)
 
-## 🗂️ Directory Structure
+## Directory Structure
 
 ```
 Pokemon/
@@ -33,9 +33,9 @@ Pokemon/
 ├── README.md
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🧠 Backend Setup (Python)
+### Backend Setup (Python)
 
 1. **Create virtual environment**  
    ```bash
@@ -56,7 +56,7 @@ Pokemon/
 
 ---
 
-### 💻 Frontend Setup (React + Vite)
+### Frontend Setup (React + Vite)
 
 ```bash
 cd frontend
@@ -68,6 +68,6 @@ Visit `http://localhost:5173/` in your browser.
 
 ---
 
-## 📦 GitHub Repository Description
+## GitHub Repository Description
 
 > A Pokémon Legends: Arceus OCR-based tracker that detects uncaught Pokémon from your screenshots and displays them by region and sub-location on a web app.
